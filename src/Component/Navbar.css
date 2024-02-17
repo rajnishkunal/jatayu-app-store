@@ -1,0 +1,11 @@
+.Navbar{
+    height: 7vh;
+    width: 100%;
+    overflow: hidden;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}

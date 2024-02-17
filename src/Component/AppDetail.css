@@ -1,0 +1,117 @@
+.main-container{
+    margin-top: 20px;
+    width: 98vw;
+    display: flex;
+    justify-content: center;
+}
+.line{
+    border: 1px solid purple;
+}
+.AppDetail-img{
+    width: 12vw;
+    border-radius: 20px;
+}
+.AppDetail{
+    width: 90vw;
+    /* border: 2px solid black; */
+}
+.first-container{
+    display: flex;
+    justify-content: space-between;
+}
+.sub-container-1{
+    margin-top: 10px;
+    width: 70vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.AppDetail-button {
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 120px;
+  margin: 5px;
+}
+
+.AppDetail-button {
+  background-color: #f7fafa;
+}
+
+.AppDetail-button {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}    
+.sub-container-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ 
+.AppDetail-btn-demo {
+  background-color: #070707;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 20px;
+  max-width: none;
+  min-height: 40px; 
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.AppDetail-btn-demo:hover,
+.AppDetail-btn-demo {
+  opacity: .75;
+}
+.sub-container-3{
+    display: flex;
+    justify-content: space-between;
+}
+.second-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.second-container-img{
+    height:45%;
+    width: 40%;
+    margin: 20px;
+}
+.third-container{
+  margin-bottom: 40px;
+}
